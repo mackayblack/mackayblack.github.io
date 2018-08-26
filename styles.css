@@ -1,0 +1,173 @@
+body {
+	font-family: Montserrat;
+	font-size: 2em;
+	color: #ffffff;
+	
+	/*Photo by Rui Silvestre on Unsplash -- https://unsplash.com/photos/VJKvOLgCbKM*/
+	background: url(rui-silvestre-703804-unsplash.jpg);
+	
+	background-size: cover;
+	margin: 20px auto;
+}
+
+.navbar-default {
+    background-color: #f8f8f800;
+    border-color: #e7e7e700;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+p {
+	font-size: 14px;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+div p:first-of-type {
+	padding-top: 5%;
+}
+
+div p:last-of-type {
+	padding-bottom: 5%;
+}
+
+#copyText {
+	text-align: center;
+	font-size: 10px;
+	padding-top: 25%;
+}
+
+h1 {
+	font-size: 3em;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 3em;
+	margin-top: 0px;
+	padding-bottom: 5%;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 2em;
+	margin-top: 0px;
+	font-weight: 500;
+	border-left: 10px solid #ffffff;
+	padding-left: 10px;
+}
+
+.splash {
+	text-align: left;
+	padding-top: 25%;
+}
+
+.bodyBlocks {
+	text-align: left;
+	border-radius: 10px;
+}
+
+.thumbnail {
+	  background-color: #ffffff00;
+    border: 0px solid #ffffff5e;
+    border-radius: 50%;
+}
+
+.thumbs {
+	  border-radius: 50%;
+}
+
+.container {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.row {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+hr {
+	margin-top: 15%;
+  margin-bottom: 15%;
+  width: 75%;
+}
+
+hr.style-six {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+div #work {
+	padding-top: 15%;
+	padding-bottom: 3%;
+}
+
+.noresize {
+  resize: none; 
+}
+
+.btn-default {
+	float: right;
+  color: #fff;
+  background-color: #fff0;
+  border-color: #fff;
+}
+
+.btn-default:hover {
+  color: #fff;
+  background-color: #fff0;
+  border-color: #fff;
+}
+
+.btn-default span, a span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn-default span:after, a span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn-default:hover span, a:hover span {
+  padding-right: 25px;
+  color: #ffffff;
+}
+
+.btn-default:hover span:after, a:hover span:after {
+  opacity: 1;
+  right: 0;
+  color: #ffffff;
+}
+
+.form-control {
+    background-color: #fff0;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid #fff;
+    border-radius: 0px;
+    box-shadow: 0px 0px;
+    color: #ffffff;
+}
+
+.form-control:focus {
+	border-color: #ffffff;
+  box-shadow: 0px 0px;
+}
+
+label {
+	font-weight: 400;
+	margin-top: 10px;
+}
