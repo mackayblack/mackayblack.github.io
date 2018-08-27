@@ -1,3 +1,96 @@
+@media (hover) {
+		.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus {
+		    color: #ffffff;
+		}
+
+		.navbar-default .navbar-toggle:focus {
+		    background-color: #ddd0;
+		}
+
+		.navbar-default .navbar-toggle:hover {
+		    background-color: #ddd;
+		}
+
+		.btn:focus,.btn:active, a:focus, a:active {
+		   outline: none !important;
+		   box-shadow: none;
+		}
+
+		.btn-default, .btn-default:hover, .btn:focus, .btn:active {
+			float: right;
+		  color: #fff;
+		  background-color: #fff0;
+		  border-color: #fff;
+		}
+
+		.btn-default span, a span {
+		  cursor: pointer;
+		  display: inline-block;
+		  position: relative;
+		  transition: 0.5s;
+		}
+
+		.btn-default span:after, a span:after {
+		  content: '\00bb';
+		  position: absolute;
+		  opacity: 0;
+		  top: 0;
+		  right: -20px;
+		  transition: 0.5s;
+		}
+
+		.btn-default:hover span, a:hover span {
+		  padding-right: 25px;
+		  color: #ffffff;
+		}
+
+		.btn-default:hover span:after, a:hover span:after {
+		  opacity: 1;
+		  right: 0;
+		  color: #ffffff;
+		}
+}
+
+@media  (hover:none) {
+		.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus {
+		    color: #ffffff;
+		}
+
+		.navbar-default .navbar-toggle:focus {
+		    background-color: #ddd0;
+		}
+
+		.navbar-default .navbar-toggle:hover {
+		    background-color: #ddd0;
+		}
+
+		.btn-default:hover, .btn:focus,.btn:active, a:focus, a:active {
+		   outline: none !important;
+		   box-shadow: none;
+		}
+
+		.btn-default, .btn-default:hover, .btn:focus, .btn:active {
+			float: right;
+		  color: #fff;
+		  background-color: #fff0;
+		  border-color: #fff;
+		}
+
+		.btn-default:hover span, a:hover span {
+		  color: #ffffff;
+		}
+
+		.btn-default:hover span:after, a:hover span:after {
+		  color: #ffffff;
+		}
+}
+
+@media (max-width: 767px) {
+		.nav>li {
+			width: 20%;
+		}
+}
+
 body {
 	font-family: Montserrat;
 	font-size: 2em;
@@ -14,22 +107,6 @@ body {
     background-color: #f8f8f800;
     border-color: #e7e7e700;
 }
-
-.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus {
-    color: #ffffff;
-}
-
-.navbar-default .navbar-toggle:focus {
-    background-color: #ddd0;
-}
-
-.navbar-default .navbar-toggle:hover {
-    background-color: #ddd;
-}
-
-/*.nav>li {
-	width: 20%;
-}*/
 
 p {
 	font-size: 14px;
@@ -123,40 +200,6 @@ div #work {
   resize: none; 
 }
 
-.btn-default, .btn-default:hover, .btn:focus,.btn:active {
-	float: right;
-  color: #fff;
-  background-color: #fff0;
-  border-color: #fff;
-}
-
-.btn-default span, a span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-
-.btn-default span:after, a span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.btn-default:hover span, a:hover span {
-  padding-right: 25px;
-  color: #ffffff;
-}
-
-.btn-default:hover span:after, a:hover span:after {
-  opacity: 1;
-  right: 0;
-  color: #ffffff;
-}
-
 .form-control {
   background-color: #fff0;
   border-top: 0px;
@@ -171,11 +214,6 @@ div #work {
 .form-control:focus {
 	border-color: #ffffff;
   box-shadow: none;
-}
-
-.btn:focus,.btn:active, a:focus, a:active {
-   outline: none !important;
-   box-shadow: none;
 }
 
 label {
