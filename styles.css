@@ -27,6 +27,10 @@ body {
     background-color: #ddd;
 }
 
+.nav>li {
+	width: 20%;
+}
+
 p {
 	font-size: 14px;
 	padding-left: 5%;
