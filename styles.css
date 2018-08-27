@@ -42,6 +42,7 @@ div p:last-of-type {
 h1 {
 	font-size: 3em;
 	font-weight: 700;
+	width: 60%;
 }
 
 h2 {
