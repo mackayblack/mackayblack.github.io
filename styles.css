@@ -1,12 +1,3 @@
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
-
-@media screen and (min-width:320px) and (max-width:1024px) {
-  /* for screens that are at least 320 pixels wide but less than or equal to 640 pixels wide */
-}
-
 body {
 	font-family: Montserrat;
 	font-size: 2em;
@@ -51,7 +42,6 @@ div p:last-of-type {
 h1 {
 	font-size: 3em;
 	font-weight: 700;
-	width: 60%;
 }
 
 h2 {
@@ -162,14 +152,14 @@ div #work {
 }
 
 .form-control {
-    background-color: #fff0;
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    border-bottom: 1px solid #fff;
-    border-radius: 0px;
-    box-shadow: 0px 0px;
-    color: #ffffff;
+  background-color: #fff0;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid #fff;
+  border-radius: 0px;
+  box-shadow: 0px 0px;
+  color: #ffffff;
 }
 
 .form-control:focus {
