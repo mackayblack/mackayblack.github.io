@@ -19,6 +19,14 @@ body {
     color: #ffffff;
 }
 
+.navbar-default .navbar-toggle:focus {
+    background-color: #ddd0;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #ddd;
+}
+
 p {
 	font-size: 14px;
 	padding-left: 5%;
@@ -111,14 +119,8 @@ div #work {
   resize: none; 
 }
 
-.btn-default {
+.btn-default, .btn-default:hover, .btn:focus,.btn:active {
 	float: right;
-  color: #fff;
-  background-color: #fff0;
-  border-color: #fff;
-}
-
-.btn-default:hover {
   color: #fff;
   background-color: #fff0;
   border-color: #fff;
