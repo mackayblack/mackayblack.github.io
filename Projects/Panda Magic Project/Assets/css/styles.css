@@ -1,0 +1,208 @@
+@media screen and (min-width: 767px) {
+		#bezelImg {
+			max-height: 585px;
+			max-width: 295px;
+			min-height: 585px;
+			min-width: 295px;
+		}
+
+		.navbar-default .navbar-nav>.active>a {
+			font-weight: 500;
+			background-color: transparent !important;
+			border-bottom: 5px solid rgb(251, 226, 204);
+		}
+}
+
+@media screen and (max-width: 767px) {
+		#bezelImg {
+			max-height: 280px;
+			max-width: 140px;
+		}
+
+		.navbar-header {
+  		height: 90px !important;			
+		}
+
+		.navbar-collapse.in {
+    	overflow-y: unset !important;
+		}
+
+		.navbar-right {
+			background-color: rgba(255, 255, 255, 0.85) !important;
+			margin: 0 -15px !important;
+			border-bottom: 1px solid #e7e7e7;
+			text-align: center;
+		}
+
+		.navbar-default .navbar-toggle:focus {
+    	background-color: #ddd0 !important;
+		}
+
+		.navbar-default .navbar-toggle:hover {
+	    background-color: #ddd !important;
+		}
+
+		.navbar-default .navbar-nav>.active>a {
+			font-weight: 500;
+			background-color: rgba(251, 226, 204, 0.9) !important;
+			border: none;
+		}
+
+		#footer h4 {
+			padding-top: 30px;
+			padding-bottom: 10px;
+		}
+}
+
+body {
+	font-family: Source Sans Pro;
+	font-size: 16px !important;
+	color: #ffffff !important;
+	/*padding-top: 90px;*/
+}
+
+h2 {
+	padding-bottom: 20px;
+	font-size: 3em !important;
+}
+
+p {
+	padding-bottom: 30px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+div .content {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+.btn-lg {
+	background-color: rgb(208, 102, 106) !important;
+  color: rgb(255, 255, 255) !important;
+	border: 1px solid rgb(208, 102, 106) !important;
+  border-radius: 23px !important;
+  transition: all 0.3s;
+}
+
+.btn-lg:hover {
+	background-color: rgb(245, 206, 207) !important;
+	color: rgb(208, 102, 106) !important;
+}
+
+.colGlyph {
+	font-size: 5em;
+	padding-bottom: 15px;
+}
+
+.empty {
+	height: 90px;
+	background-color: #ffffff;
+}
+
+#splash {
+	background: url(agustin-diaz-185846-unsplash-02.png);
+	background-size: cover;
+	background-position: center;
+	min-height: 600px;
+	height: auto;
+	padding-top: 18%;
+}
+
+#splashContent {
+	text-align: center;
+	color: #ffffff;
+	background-color: rgba(251, 226, 204, 0.65);
+	padding-top: 10px;
+	padding-bottom: 40px;
+}
+
+#splashContent h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+#splashContent h3 {
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+
+#about {
+	background: #659999;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #fbe2cc, #659999);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #fbe2cc, #659999); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#make {
+	background: url(hermansyah-352364-unsplash-02.png);
+	background-size: cover;
+	background-position: center;
+	height: auto;
+	padding-top: 3%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#makeLeftCol {
+	padding-top: 10%;
+}
+
+#contact {
+	background: #fbe2cc;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to top, #659999, #fbe2cc);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to top, #659999, #fbe2cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#footer, #footer a {
+	color: #777777;
+}
+
+.navbar {
+  margin-bottom: 0 !important;
+  border-radius: 0 !important;
+  height: 90px !important;
+}
+
+.navbar-default {
+   background-color: rgba(255, 255, 255, 0.85) !important;
+   border: none !important;
+}
+
+.navbar-brand {
+  padding: 6px 15px !important;
+}
+
+.navbar-toggle {
+	margin-top: 28px !important;
+	margin-right: 25px !important;
+}
+
+.navbar-nav > li > a {
+	height: 70px; 
+	line-height: 60px !important;
+} 
+
+#pandaImg {
+	height: 75px;
+	width: 150px;
+}
+
+#bezelImg {
+	height: 35%;
+	width: 35%;
+}
+
+#downloadBtn {
+	margin: 10% auto;
+}
+
+#copyText {
+	padding-top: 90px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}

@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"re",
+				"reset"
+			],
+			[
+				"res",
+				"resetButton"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"s",
+				"selected"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"mod",
+				"modeButtons"
+			],
+			[
+				"q",
+				"querySelectorAll"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"nu",
+				"numSquares"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"b",
+				"backgroundColor"
+			],
+			[
+				"pic",
+				"pickedColor"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ra",
+				"randomColor"
+			],
+			[
+				"ch",
+				"changeColors"
+			],
+			[
+				"c",
+				"colors"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"click",
+				"clickedColor"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"backgoun",
+				"background-color\tproperty"
+			],
+			[
+				"tes",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"win",
+				"winningScoreDisplay"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"backgound",
+				"background-clip\tproperty"
+			],
+			[
+				"l",
+				"tempLast"
+			],
+			[
+				"temp",
+				"tempArray"
+			],
+			[
+				"tem",
+				"tempArray"
+			],
+			[
+				"print",
+				"printReverse"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"ne",
+				"newTodo"
+			],
+			[
+				"kebab",
+				"kebabToSnake"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"customer",
+				"customerAge"
+			],
+			[
+				"cus",
+				"customerAge"
+			],
+			[
+				"cu",
+				"customerAge"
+			],
+			[
+				"us",
+				"userFullName"
+			],
+			[
+				"u",
+				"userFirstName"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"na",
+				"navbar-nav"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"btn",
+				"btn-lg"
+			],
+			[
+				"btn-",
+				"btn-success"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"bor",
+				"border-spacing\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"ag",
+				"agreeTerms"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/jQuery Effects Example/jQueryEffects.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/jQuery Effects Example/jQueryEffects.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/jQuery Effects Example/jQueryEffects.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/To Do List Project/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/To Do List Project/styles.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/jQuery Common Methods/methods.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/Color Game Project/scr_ColorGame.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/Color Game Project/sty_ColorGame.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/Color Game Project/ColorGame.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/Intro To jQuery/jQueryDemo.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/jQuery Tuts/Intro To jQuery/exercise.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/ToDo Exercise/todos.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/ToDo Exercise/todos.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/ToDo Exercise/ToDoExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/ScoreKeeper/scr_ScoreKeeper.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/ScoreKeeper/sty_ScoreKeeper.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/ScoreKeeper/ScoreKeeper.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/Color Changer/sc_ColorChanger.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/Color Changer/st_ColorChanger.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/DOM Tuts/Color Changer/ColorChanger.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Arrays/ToDo List Exercise_v2/toDoList_v2.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Arrays/Array Exercise/s_arrayExercise.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Arrays/Array Exercise/arrayExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Arrays/ToDo List Exercise_v2/toDoListExercise_v2.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Arrays/ToDo List Exercise/toDoListExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Functions/Scope Intro/scope.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Functions/Scope Intro/Scope_Intro.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Functions/Function Exercise 01/functionExercise01.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Functions/Function Exercise 01/functionExercise01.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Loops/For Loops Exercise/forLoopExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Loops/For Loops Exercise/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Loops/While Loops Exercise/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Image Gallery Project/gallery.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Image Gallery Project/gallery.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Blog Exercise/blog.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Portfolio/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Portfolio/styles.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Loops/Annoy-omatic/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Loops/Annoy-omatic/annoying.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Loops/While Loops Exercise/whileLoopsExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Guessing Game Updated 1/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Guessing Game Updated 1/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Guessing Game/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Guessing Game/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Venue Age Check/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Venue Age Check/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Age Calculator/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Age Calculator/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/JS Stalker Exercise/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/JS Stalker Exercise/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Basic Exercise/script.js",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/JavaScript Tuts/Basic Exercise/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Purrfect Match/app.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Purrfect Match/index.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Bootstrap Basics/bootstrap.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Bootstrap Basics/bootstrapGridIntro.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Bootstrap Basics/bootstrapNavBarBasics.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/Bootstrap Tuts/Bootstrap Basics/bootstrapBasics.html",
+		"/C/Users/StevieAndNewman/Desktop/07_Image_Gallery/gallery.md",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/css_aboutMeStyleSheet.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/css_aboutMe.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/toDoList.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/09_Selector_Exercise_Starter/selectors.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Blog Exercise/blog.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Photo Blog/photos.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Photo Blog/photoGrid.html",
+		"/C/Users/StevieAndNewman/Desktop/07_ImageBlog1/imageLinks.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Fonts Tut/fonts.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Fonts Tut/styles.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Box Model Tut/boxModel.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Box Model Tut/boxModelStyles.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Tic Tac Toe Exercise/ticTacToe.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/Tic Tac Toe Exercise/ticTacToeStyles.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/HTML_Tuts/tableLesson.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/CSS_Tuts/todos.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/css_aboutMeStyleSheet.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/todos.css",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/toDoList.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/css_aboutMe.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/ex_registrationForm.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/ex_dogPage.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/pokemonTableExercise.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/firstPage.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/inputs.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/htmlFormValidations.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/tableLesson.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/page2.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/ex_thingsIveLearned.html",
+		"/C/Users/StevieAndNewman/Desktop/Web Dev Bootcamp/firstHTML_Page/divExample.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ToDoList.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
